@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\bin\Debug\CurpCorreo.exe.config
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\bin\Debug\CurpCorreo.exe
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\bin\Debug\CurpCorreo.pdb
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\obj\Debug\CurpCorreo.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\obj\Debug\CurpCorreo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\obj\Debug\CurpCorreo.exe
+C:\Users\alexi\source\repos\CurpCorreo\CurpCorreo\obj\Debug\CurpCorreo.pdb
